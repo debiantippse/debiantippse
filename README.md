@@ -6,7 +6,7 @@ Computer, BGP, Networking, VM Software(Proxmox, VMware, XEN, etc.)
 
 - 🌱 I’m currently learning:
 
-- IT-SE in Germany.
+- FISI in Germany.
 
 - 💞️ I’m looking to collaborate on:
 
