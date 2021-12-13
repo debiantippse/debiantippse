@@ -16,7 +16,7 @@
 
 Private: domenik@debiantippse.io
 
-Business: hello@debiantipp.se
+Business: hi@debiantipp.se
 
 <!---
 debiantippse/debiantippse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
