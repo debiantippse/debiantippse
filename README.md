@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in:
       
-      - Computer, BGP, Networking, VM Software(Proxmox, VMware, XEN, etc.)
+      - Computer, BGP, Networking, VM Software(Proxmox), IPv6 (There is no Excuse for not using it!) 
 
 - 🌱 I’m currently learning:
        
@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to collaborate on:
       
-      - OpenMPTCP, XCP-NG, XOA
+      - OpenMPTCP
 
 - 📫 How to reach me:
 
