@@ -1,16 +1,13 @@
 - 👋 Hi, I’m @debiantippse
 
 - 👀 I’m interested in:
-
-Computer, BGP, Networking, VM Software(Proxmox, VMware, XEN, etc.)
+      - Computer, BGP, Networking, VM Software(Proxmox, VMware, XEN, etc.)
 
 - 🌱 I’m currently learning:
-
-- FISI in Germany.
+       - FISI in Germany.
 
 - 💞️ I’m looking to collaborate on:
-
-- OpenMPTCP, XCP-NG, XOA
+      - OpenMPTCP, XCP-NG, XOA
 
 - 📫 How to reach me:
 
