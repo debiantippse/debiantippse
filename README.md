@@ -2,7 +2,7 @@
 
 - 🌐 I speak:
 
-      - 🇳🇱 (Dutch or Nederlandse) 🇺🇸 (US Englisch) 🇩🇪 (German)
+      - 🇳🇱 (Dutch or Nederlandse) 🇺🇸 (US English) 🇩🇪 (German)
 
 - 👀 I’m interested in:
       
