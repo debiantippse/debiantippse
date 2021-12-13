@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @debiantippse
 
+      - I'm not new here but as i wanted to claim my username i thought why not give it a nice Bio. I like learning new things especially things related to IPv6.
+
 - 🌐 I speak:
 
       - 🇳🇱 (Dutch or Nederlandse) 🇺🇸 (US English) 🇩🇪 (German)
