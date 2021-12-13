@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @debiantippse
 
+- 🌐 I speak:
+
+      - 🇳🇱 (Dutch or Nederlandse) 🇺🇸 (US Englisch) 🇩🇪 (German)
+
 - 👀 I’m interested in:
       
       - Computer, BGP, Networking, VM Software(Proxmox, VMware, XEN, etc.)
