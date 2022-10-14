@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning:
        
-       - FISI in secound year with DB Systel GmbH
+       - FISI in second year with DB Systel GmbH
 
 - 💞️ I’m looking to collaborate on:
       
