@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in:
       
-      - Computer, BGP, Networking, VM Software(Proxmox), IPv6 (There is no Excuse for not using it!) 
+      - Computer, BGP, Networking, VM Software(Proxmox), IPv6 (There is no excuse for not using it!) 
 
 - 🌱 I’m currently learning:
        
