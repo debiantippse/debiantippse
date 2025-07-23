@@ -11,9 +11,9 @@
       
       - Computer, BGP, Networking, VM Software(Proxmox), IPv6 (There is no excuse for not using it!) 
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently working as:
        
-       - FISI in second year with DB Systel GmbH
+       - Train Driver
 
 - 💞️ I’m looking to collaborate on:
       
